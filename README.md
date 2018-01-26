@@ -1,7 +1,7 @@
-#Caesar Cipher
-##Obejetivo
+# Caesar Cipher
+## Obejetivo
 Crea una nueva versión de cifrado César en ES6.
-##Observaciones
+## Observaciones
 Uso de array function y nueva definición de variables.
-##Autor
+## Autor
 Ornella Campos
